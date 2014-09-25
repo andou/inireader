@@ -1,6 +1,6 @@
 <?php
 
-namespace Andou;
+namespace Andou\Inireader;
 
 /**
  * Your own personal Inireader.
